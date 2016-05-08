@@ -1,2 +1,2 @@
 # AdalineMatlab
-Adaline code Matlab
+Adaline code Matlab. ADALINE is an early single-layer artificial neural network.
